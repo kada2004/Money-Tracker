@@ -3,8 +3,12 @@ This a small software have created for my friend in order automate all the payme
 Its also provides a history of transactions and maintains  a record in an Excel file. Below is a brief explanation of the main features and functionality of the Money Tracker application
 
 # Overview
+
 1 GUI interface
+
 ![image](https://github.com/kada2004/Money-Tracker/assets/117305234/139760f4-28ff-4669-a2b8-a717dc6e0a7a)
+
+
 2 Password window
 
 ![image](https://github.com/kada2004/Money-Tracker/assets/117305234/d59cf9b1-0604-49cc-9fe8-00920ca77248)
